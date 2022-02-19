@@ -69,6 +69,8 @@ crashlytics-build.properties
 /[Pp]rojectSettings/**
 /[Pp]ackages/**
 
-!/[Aa]ssets/Editor/ReflectionProbeRotator
-!/[Aa]ssets/Editor/ReflectionProbeRotator/**
+
+!/[Aa]ssets/Editor/**
+!/[Aa]ssets/Editor/EricsTools
+!/[Aa]ssets/Editor/EricsTools/**
 
